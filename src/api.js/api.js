@@ -50,3 +50,4 @@ export async function getProductsByCategory(subCategory) {
   );
   return result;
 }
+
